@@ -1,0 +1,6 @@
+ulib.c:3:6:SPI4_Init	8	static
+ulib.c:62:6:DMA_init	4	static
+ulib.c:83:6:DMA_send16b	24	static
+ulib.c:123:6:DMA_send8b	24	static
+ulib.c:164:6:SPI4_write_byte	16	static
+ulib.c:173:6:delay	16	static

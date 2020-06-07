@@ -1,0 +1,2 @@
+consol.c:6:6:console_printf	300	static
+consol.c:53:6:FatalError	16	static
